@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/git_dp.jpeg
+avatar: assets/git_dp.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
