@@ -1,7 +1,7 @@
 ---
 title: Talks 
 icon: fas fa-info-circle
-order: 5
+order: 4
 ---
 
 - Talk on the review of research paper on [Hardware-efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets](https://doi.org/10.1038/nature23879) as a part of the project for the course on Quantum Computing.  
