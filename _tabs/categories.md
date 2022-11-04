@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Categories
+title: Research
 icon: fas fa-stream
 order: 1
 ---
