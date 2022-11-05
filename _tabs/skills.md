@@ -1,6 +1,6 @@
 ---
 title: Skills
-icon: favicon-96x96
+icon: fas fa-tag
 order: 4
 ---
 
