@@ -1,5 +1,6 @@
 ---
-title: Skills 
+title: Skills
+icon: favicon-96x96
 order: 4
 ---
 
