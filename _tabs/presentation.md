@@ -1,5 +1,6 @@
 ---
 title: Talks 
+icon: fas fa-stream
 order: 5
 ---
 
