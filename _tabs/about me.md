@@ -1,6 +1,10 @@
 ---
 title: About
-order: 0
+order: 6
 ---
 
-cyx
+I am currently enrolled in the University of Florida as a graduate student for the Ph.D. program in Quantum Theory Project, Department of Chemistry. 
+My interest lies in studying the structure of the many-electron systems and thus tackling the main problem of the strong correlation. All the efforts
+are made because it has been very challenging for the mankind to capture the correlation between electrons present in the chemical system.
+I would like to work on the interface of Quantum Chemistry and Quantum Computing. Along with the Ph.D. routine life, I enjoy biking and reading. 
+Cooking and serving is part of my hobby.
