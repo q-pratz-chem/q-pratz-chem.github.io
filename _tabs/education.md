@@ -1,7 +1,7 @@
 ---
 title: Education
 icon: fas fa-tag
-order: 2
+order: 1
 ---
 
 **University of Florida** (January 2021 - ongoing)       
