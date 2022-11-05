@@ -1,7 +1,7 @@
 ---
 title: Experience
 icon: fas fa-tag
-order: 3
+order: 2
 ---
 
 **[MolSSI Software Fellow Bootcamp](https://molssi.org/fellowship/)** (July 24-29, 2022)       
