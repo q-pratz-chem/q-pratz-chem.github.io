@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Awards
 icon: fas fa-stream
-order: 1
+order: 3
 ---
