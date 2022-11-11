@@ -15,7 +15,7 @@ order: 2
 
 
 **[Introduction to Quantum Computing Course by QxQ, The Coding School](https://www.qubitbyqubit.org/)** (October 2020 - June 2021)      
-9-months long two semeseters' course covering the Fundamentals of Quantum Computing and its applications.   
+9-months long two semesters' course covering the Fundamentals of Quantum Computing and its applications.   
 **Topics**: Limits of Classical Computation | Quantum Mechanics | Quantum Programming | Quantum Information | Advanced Quantum Algorithms   
 
 **[Qiskit Global Summer School 2020: Quantum Computing and Quantum Hardware by IBM Quantum](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020/)**(July 20 - 30, 2020)      
