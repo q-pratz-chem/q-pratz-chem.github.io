@@ -26,8 +26,8 @@ Thesis: Particle Swarm Optimization method combined with Gaussian to generate Mi
 - Summer internship on Software Framework for Electronic Structure for Molecules and Solids at Virginia Tech, USA. (05/2019-07/2019)   
   Supervisor: Prof. Edward Valeev    
   
-- Summer internship on Implicit Inclusion of Iterative Triples Correction on Coupled Cluster Theory at IIT Bombaby, India. (05/2018-07/2018)   
+- Summer internship on Implicit Inclusion of Iterative Triples Correction on Coupled Cluster Theory at IIT Bombay, India. (05/2018-07/2018)   
   Supervisor: Dr. Rahul Maitra    
   
 - Summer internship on Developing Novel Materials based on Ice Templating and Emulsion Templating at NCL, Pune, India. (05/2017-07/2017)    
-  Supervisor: Dr. Guruswwamy Kumarswamy
+  Supervisor: Dr. Guruswamy Kumarswamy
