@@ -19,7 +19,7 @@ Thesis: Particle Swarm Optimization method combined with Gaussian to generate Mi
 
 **Internships**
 
-- Rmote internship on Quantum-Computational Chemistry at [Qu & Co, Netherlands](https://quandco.com/). (09/2020-01/2021)     
+- Remote internship on Quantum-Computational Chemistry at [Qu & Co, Netherlands](https://quandco.com/). (09/2020-01/2021)     
   Supervisor: Benno Broer, CEO   
   
 - Summer internship on Software Framework for Electronic Structure for Molecules and Solids at Virginia Tech, USA. (05/2019-07/2019)   
