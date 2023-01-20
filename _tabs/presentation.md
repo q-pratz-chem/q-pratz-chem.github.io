@@ -3,6 +3,8 @@ title: Talks
 order: 5
 ---
 
+- Talk on 'Exploring Chemistry of Interstellar H<sup>+<sub>3</sub></sup> using _qiskit_nature_ module', as a part of the personal project for the course on Quantum Computing.
+- Poster Presentation at [LatinXChem2022](https://www.latinxchem.org/) on 'Tackling Strong Correlation with Flexible Geminal and Coupled-Cluster Methods'.
 - Talk on the review of research paper on [Hardware-efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets](https://doi.org/10.1038/nature23879) as a part of the project for the course on Quantum Computing.  
 - Talk at 98<sup>th</sup> Florida Annual Meeting and Exposition (FAME) conference on 'Single Excitations in 1-Reference Geminal Coupled Cluster Wavefunctions: Taming Strong Correlation with Flexible Quasiparticles'.
 - Poster Presentation at 10<sup>th</sup> triennial conference on Molecular Quantum Mechanics (MQM) 2022 on 'Incorporating Orbital Rotations in Natural Way in 1-Reference Geminal Coupled Cluster Method'.
