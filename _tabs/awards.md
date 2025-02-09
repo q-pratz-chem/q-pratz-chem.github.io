@@ -20,7 +20,7 @@ order: 3
   Offered by the National Council of Education Research & Training based on performance in a two-stage screening examination on scholastic aptitude and mental aptitude.   
 
 
-## Honors and Recognition
+## Honors and Recognitions
 - ACS Lasting Encounters between Aspiring & Distinguished Scientists (LEADS) Conference, Washington, D.C. (Nov 7 - 9, 2024)
   Selected as one of approximately 50 participants in a prestigious conference, based on my passion for the chemical sciences, commitment to addressing societal challenges through chemistry, and dedication to continuous personal and professional growth.
   
