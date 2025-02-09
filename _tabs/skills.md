@@ -4,9 +4,15 @@ order: 1
 ---
 
 
-**Skills:** `Python` | `C++` | `MATLAB` | `Qiskit` | `Git` | `Fortran`
+**Programming Languages:** `Python` | `C++` | `Fortran`
 
-**Softwares:** `Gaussian` | `PySCF` | `Avogadro` | `Fanpy` | `PyCI` | `ChemDraw`  
+**Version Control:** `Git`
+
+**Quantum Computing:** `Qiskit` | `IBM Quantum Platform Application`
+
+**Quantum Chemistry Softwares:** `Gaussian` | `PySCF` | `Avogadro` | `Fanpy` | `PyCI` | `ChemDraw`  
+
+
 
 **Training:**
 - [Fundamentals of Accelerated Computing with CUDA Python Course by NVIDIA.](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/)   
