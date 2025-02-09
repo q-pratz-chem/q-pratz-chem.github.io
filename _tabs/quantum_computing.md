@@ -4,7 +4,7 @@ icon: fas fa-atom
 order: 4
 ---
 
- I have undergone an extensive trainign in quantum computing foundations, standard algorithms and quantum simulations, through various programs mentioned below. 
+ I have undergone extensive training in quantum computing foundations, standard algorithms, and quantum simulations, through various programs mentioned below. 
 
  
 - [QSim 2024: Quantum Simulation Summer School by RQS](https://qsim2024.qsimconference.org/summer-school/), Rhode Island (Aug 9-11, 2024)
