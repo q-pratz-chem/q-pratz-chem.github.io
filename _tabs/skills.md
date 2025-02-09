@@ -1,6 +1,6 @@
 ---
 title: Skills
-order: 4
+order: 1
 ---
 
 
