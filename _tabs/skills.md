@@ -22,7 +22,7 @@ order: 1
   `Object-Oriented Programming in Python` | `Containerization` | `Version Control` | `Docker` | `Continuous Integration` | `Unit Testing with Pytest` | `Pydantic` | `Debugging with Sphinx`   
 
 
-[**Quantum Computing**](/tabs/quantum_computing)
+[**Quantum Computing**](/_tabs/quantum_computing)
 
 - [QSim 2024: Quantum Simulation Summer School by RQS](https://qsim2024.qsimconference.org/summer-school/), Rhode Island (Aug 9-11, 2024)
   2nd annual school organized by the NSF Quantum Leap Challenge Institute for Robust Institute for Quantum Simulation (RQS). The summer school was focused on many-body systems, combining both theoretical and numerical techniques with examples from quantum hardware experiments.
