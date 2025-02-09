@@ -17,7 +17,7 @@ Master's Thesis Advisor: [Prof. Pratim Kumar Chattaraj](http://www.chemistry.iit
 Thesis: Particle Swarm Optimization method combined with Gaussian to generate Minimum Energy Structures.   
 
 
-**Internships**
+## Internships
 
 - Remote internship in Quantum-Computational Chemistry at [Qu & Co, Netherlands (now PASQAL)](https://www.pasqal.com/). (09/2020-01/2021)     
   Supervisor: Benno Broer, CEO   
