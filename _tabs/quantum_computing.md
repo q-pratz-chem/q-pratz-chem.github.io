@@ -1,6 +1,5 @@
 ---
 title: Quantum Computing
-icon: fas fa-atom
 order: 4
 ---
 
