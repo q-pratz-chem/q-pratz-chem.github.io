@@ -8,7 +8,7 @@ order: 3
 - Denney Summer Fellowship (05/2024 - 08/2024)
   Offered by the Department of Chemistry, University of Florida, to support the research assistantship.  
 
-- [MolSSI Seed Software Fellowship](https://molssi.org/fellowship/) (07/2022-06/2023)  
+- [MolSSI Seed Software Fellowship](https://molssi.org/fellowship/) (07/2022 - 06/2023)  
   A stipend of $40,000 and mentoring for one year offered by the Molecular Sciences Software Institute, VA, to support the software development of Fanpy for 'Developing flexible wavefunction methods to study strongly correlated systems'.   
   
 - Early Career Award in Physical Chemistry by Center of Chemical Physics, University of Florida for the academic year 2021-2022 based on the top overall performance in grades, cumulative exams, and teaching evaluations.    
@@ -16,7 +16,7 @@ order: 3
 - Rajarshi Shahu Maharaj Merit Scholarship (07/2015-04/2020)   
   Offered by the government of Maharashtra to the top 100 students of the state enrolled in undergraduate programs in institutes of national importance.   
 
-- [National Talent Search Scholarship](https://ncert.nic.in/national-talent-examination.php) (07/2011-04/2015)   
+- [National Talent Search Scholarship](https://ncert.nic.in/national-talent-examination.php) (07/2011 - 04/2015)   
   Offered by the National Council of Education Research & Training based on performance in a two-stage screening examination on scholastic aptitude and mental aptitude.   
 
 
