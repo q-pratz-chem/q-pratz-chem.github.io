@@ -1,5 +1,5 @@
 ---
-title: Quantum Computing Training
+title: Quantum Computing
 icon: fas fa-atom
 order: 4
 ---
