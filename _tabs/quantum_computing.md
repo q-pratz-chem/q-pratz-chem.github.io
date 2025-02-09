@@ -28,11 +28,17 @@ permalink: /tabs/quantum_computing/
   The offsite activities: Duke Quantum Center Lab Tours, Don't Sweat the Flops Workshop with Flow Circus.      
   
 - [Qiskit Global Summer School 2022: Quantum Simulations by IBM](https://qiskit.org/learn/summer-school/quantum-simulation-summer-school-2022/). (July 24-29, 2022)    
-  Hamiltonian Time Evolution | Simulation Problems | Noisy Real Hardware | Quantum Chemistry Simulation | Quantum Dynamics
+  Hamiltonian Time Evolution | Simulation Problems | Noisy Real Hardware | Challenges and Methods of Quantum Chemistry Simulation | Quantum Dynamics
+  Project: Simulate a Quantum Spin-1/2 Model     
   
 - [Introduction to Quantum Computing Course by Qubit by Qubit, The Coding School, with IBM.](https://www.qubitbyqubit.org/) (10/2020 - 06/2021)   
-  Limits of Classical Computation | Quantum Mechanics | Quantum Programming | Quantum Information | Advanced Quantum Algorithms  
+  Limits of Classical Computation | Quantum Mechanics | Quantum Programming | Quantum Information | Advanced Quantum Algorithms     
+  
   
 - [Qiskit Global Summer School 2020: Quantum Computing and Quantum Hardware by IBM](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020). (July 20-30, 2020)    
   Quantum Programming using Qiskit on IBM Quantum Experience Platform | Final Project Challenge - Implementation of VQE algorithm for LiH molecule   
-  
+
+
+
+
+
