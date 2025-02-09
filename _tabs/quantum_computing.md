@@ -1,6 +1,7 @@
 ---
 title: Quantum Computing
 order: 5
+permalink: /tabs/quantum_computing/
 ---
 
  I have undergone extensive training in quantum computing foundations, standard algorithms, and quantum simulations, through various programs mentioned below. 
