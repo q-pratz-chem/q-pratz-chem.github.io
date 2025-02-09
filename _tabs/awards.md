@@ -1,5 +1,5 @@
 ---
-title: Awards
+title: Honors and Awards
 order: 3
 ---
 
