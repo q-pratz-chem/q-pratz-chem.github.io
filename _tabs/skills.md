@@ -4,7 +4,7 @@ order: 1
 ---
 
 
-**Programming Languages:** `Python` | `C++` | `Fortran`
+**Programming Languages:** `Python` | `C++` | `Fortran`    
 
 **Version Control:** `Git`
 
