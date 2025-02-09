@@ -6,7 +6,7 @@ order: 4
 
 **Skills:** `Python` | `C++` | `MATLAB` | `Qiskit` | `Git` | `Fortran`
 
-**Softwares:** `Gaussian` | `Fanpy` | `ChemSketch`  
+**Softwares:** `Gaussian` | `PySCF` | `Avogadro` | `Fanpy` | `PyCI` | `ChemDraw`  
 
 **Training:**
 - [Fundamentals of Accelerated Computing with CUDA Python Course by NVIDIA.](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/)   
