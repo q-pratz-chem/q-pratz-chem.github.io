@@ -1,6 +1,6 @@
 ---
 title: Quantum Computing
-order: 4
+order: 5
 ---
 
  I have undergone extensive training in quantum computing foundations, standard algorithms, and quantum simulations, through various programs mentioned below. 
