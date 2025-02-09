@@ -138,6 +138,7 @@ collections:
   tabs:
     output: true
     sort_by: order
+    permalink: /tabs/:name/   # Ensure tabs use /tabs/ as the base URL
 
 defaults:
   - scope:
