@@ -7,6 +7,9 @@ order: 2
 
 ## Internships
 
+- Remote internship in Quantum-Computational Chemistry at [Schrödinger, Inc.](https://www.schrodinger.com/). (05/2025-08/2025)     
+  Supervisor: Art D. Bochevarov, M. Chandler Bennett, Mark A Watson   
+
 - Remote internship in Quantum-Computational Chemistry at [Qu & Co, Netherlands (now PASQAL)](https://www.pasqal.com/). (09/2020-01/2021)     
   Supervisor: Benno Broer, CEO   
   
