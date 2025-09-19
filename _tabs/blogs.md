@@ -2,5 +2,7 @@
 title: Blogs
 order: 7            # controls the order in sidebar
 layout: archives
+breadcrumb:
+  parent: Blogs
 ---
 
