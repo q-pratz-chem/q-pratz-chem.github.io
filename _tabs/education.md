@@ -5,7 +5,7 @@ order: 1
 
 - **University of Florida** (January 2021 - present)       
 > Ph.D. in Computational Quantum Chemistry  
-> Advisor: [Dr. Ramón Alain Miranda Quintana](https://quintana.chem.ufl.edu/)
+> Advisor: [Dr. Ramón Alain Miranda Quintana](https://quintana.chem.ufl.edu/)     
 > Project: Development of new wavefunction methods for describing strongly correlated systems, and methods to include dynamic correlation in multireference calculations.
 
 
