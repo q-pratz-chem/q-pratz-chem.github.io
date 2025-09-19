@@ -193,6 +193,11 @@ exclude:
   - node_modules
   - package*.json
 
+
+# Add this at top-level
+layout:
+  full_width: true
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
