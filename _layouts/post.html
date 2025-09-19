@@ -16,7 +16,7 @@ script_includes:
 
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
-    <h1 data-toc-skip style="margin-top: 3rem;">{{ page.title }}</h1>
+    <h1 data-toc-skip style="margin-top: 4rem;">{{ page.title }}</h1>
     {% if page.description %}
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
@@ -79,6 +79,9 @@ script_includes:
             {% endif %}
           </em>
         </span>
+
+        <!-- ADD SPACE AFTER BY LINE -->
+        <div style="margin-bottom: 1.5rem;"></div>
 
         <div>
           <!-- pageviews -->
