@@ -17,7 +17,7 @@ order: 2
 > Supervisor: [Prof. Edward Valeev](https://valeevgroup.github.io/)           
 > [C++ codes](https://github.com/q-pratz-chem/Internship_VT_2019)    
   
-> Summer internship on Implicit Inclusion of Iterative Triples Correction on Coupled Cluster Theory
+- Summer internship on Implicit Inclusion of Iterative Triples Correction on Coupled Cluster Theory
 > Indian Institute of Technology Bombay, India. (05/2018-07/2018)   
 > Supervisor: [Dr. Rahul Maitra](https://www.chem.iitb.ac.in/facultyuserview/rahul-maitra)        
   
