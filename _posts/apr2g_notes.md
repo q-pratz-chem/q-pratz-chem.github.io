@@ -18,9 +18,7 @@ Goals:
 
 The antisymmetrized product of interacting geminals (APIG) is
 
-$$
-|\Psi\rangle
-=
+$$ | \Psi \rangle =
 \prod_{p=1}^{P}
 \left(
 \sum_{i=1}^{K}
@@ -110,8 +108,7 @@ $$
 Pair creation operators commute:
 
 $$
-\hat g_i^\dagger \hat g_j^\dagger
-=
+\hat g_i^\dagger \hat g_j^\dagger =
 \hat g_j^\dagger \hat g_i^\dagger
 $$
 
@@ -148,8 +145,7 @@ This is a **Cauchy matrix**.
 For a Cauchy matrix $C$, Borchardt’s theorem states
 
 $$
-\mathrm{perm}(C)
-=
+\mathrm{perm}(C) =
 \frac{\det(C \circ C)}{\det(C)}
 $$
 
@@ -209,8 +205,7 @@ APr2G sits inside this broader pairing structure.
 With the Cauchy parametrization:
 
 $$
-|\Psi_{\mathrm{APr2G}}\rangle
-=
+|\Psi_{\mathrm{APr2G}}\rangle =
 \prod_{p=1}^{P}
 \left(
 \sum_{i=1}^{K}
@@ -223,8 +218,7 @@ $$
 The Slater determinant coefficients become
 
 $$
-\phi_{\{i\}}
-=
+\phi_{\{i\}} =
 \frac{\det(C \circ C)}{\det(C)}
 $$
 
