@@ -6,6 +6,8 @@ permalink: /tabs/quantum_computing/
 
  I have undergone extensive training in quantum computing foundations, standard algorithms, and quantum simulations, through various programs mentioned below. 
 
+- [QSim 2025: Quantum Simulation Summer School by RQS]([https://qsim2024.qsimconference.org/summer-school/](https://www.linkedin.com/posts/pratiksha-gaikwad_the-2025-rqs-summer-school-wrapped-up-this-activity-7366606325650268161-6I0V?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABorgTsBTvmCgx6dO1eKZIEJhrirOBczyVI)), IBM, 1 Madison Ave, New York (Aug 4-8, 2025)
+  3rd annual school organized by the NSF Quantum Leap Challenge Institute for Robust Institute for Quantum Simulation (RQS). The summer school was focused on QEC, quantum simulation and algorithms, and many-body physics.
  
 - [QSim 2024: Quantum Simulation Summer School by RQS](https://qsim2024.qsimconference.org/summer-school/), Rhode Island (Aug 9-11, 2024)
   2nd annual school organized by the NSF Quantum Leap Challenge Institute for Robust Institute for Quantum Simulation (RQS). The summer school was focused on many-body systems, combining both theoretical and numerical techniques with examples from quantum hardware experiments.
