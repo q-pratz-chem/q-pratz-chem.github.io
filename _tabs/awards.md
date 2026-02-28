@@ -21,9 +21,9 @@ order: 3
 
 
 ## Honors and Recognitions
-- Women Chemists Committee (WCC) - Merck Research Award, ACS Fall 2025
+- [Women Chemists Committee (WCC) - Merck Research Award](https://www.linkedin.com/posts/acswcc_we-would-like-to-congratulate-the-wcc-merck-activity-7361790014030061570-4Cmr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABorgTsBTvmCgx6dO1eKZIEJhrirOBczyVI), ACS Fall 2025
 
-- Chemical Computing Group (CCG)  - Graduate Research Excellence Award, ACS Fall 2025
+- [Chemical Computing Group (CCG)  - Graduate Research Excellence Award](https://www.linkedin.com/posts/chemical-computing-group_compchem-activity-7357084610750521345-OPaY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABorgTsBTvmCgx6dO1eKZIEJhrirOBczyVI), ACS Fall 2025
   
 - ACS Lasting Encounters between Aspiring & Distinguished Scientists (LEADS) Conference, Washington, D.C. (Nov 7 - 9, 2024)
   Selected as one of approximately 50 participants in a prestigious conference, based on my passion for the chemical sciences, commitment to addressing societal challenges through chemistry, and dedication to continuous personal and professional growth.
