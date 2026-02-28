@@ -1,3 +1,10 @@
+---
+title: Notes: Antisymmetrized Product of Rank-Two Geminals (APr2G)
+author: pratiksha
+date: 2026-02-28 17:00:00 -0500
+categories: [blogs, geminals] 
+---
+
 # Antisymmetrized Product of Rank-Two Geminals (APr2G)
 
 ## Mathematical Notes and Intuition
