@@ -23,7 +23,7 @@ timezone: 'America/Indiana/Vevay'
 
 title: Pratiksha B. Gaikwad                         # the main title
 
-tagline:  Quantum Chemistry   # it will display as the sub-title
+tagline:  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   2nd Year Graduate Student, Quantum Theory Project, University of Florida. USA.
