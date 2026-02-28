@@ -27,9 +27,7 @@ The antisymmetrized product of interacting geminals (APIG) is
 
 $$ | \Psi \rangle =
 \prod_{p=1}^{P}
-\left( \sum_{i=1}^{K}
-c_{i,p} a_i^\dagger a_{\bar{i}}^\dagger \right)
-|0\rangle
+\left( \sum_{i=1}^{K} c_{i,p} \ a_i^\dagger a_{\bar{i}}^\dagger \right) |0\rangle
 $$
 
 where
