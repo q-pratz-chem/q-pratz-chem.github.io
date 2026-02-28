@@ -1,5 +1,5 @@
 ---
-title: Notes on Antisymmetrized Product of Rank-Two Geminals (APr2G)
+title: Notes on Antisymmetrized Product of Rank-Two Geminals
 author: pratiksha
 date: 2026-02-28 17:00:00 -0500
 categories: [blogs, geminals] 
@@ -11,6 +11,8 @@ categories: [blogs, geminals]
 
 This note summarizes the key mathematical ideas behind the antisymmetrized product of rank-two geminals (APr2G) introduced by Johnson et al.
 in the paper [A size-consistent approach to strongly correlated systems using a generalized antisymmetrized product of nonorthogonal geminals](https://doi.org/10.1016/j.comptc.2012.09.030).
+
+
 Goals:
 
 - Understand why permanents appear in APIG.
