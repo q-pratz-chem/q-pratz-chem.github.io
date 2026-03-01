@@ -1,10 +1,7 @@
 ---
 title: Talks 
 order: 6
----
-
-{% assign talks = 
-"
+talks:
 - date: 2025-11-01
   type: Invited Talk
   title: Quantum Lightning Talk – Qubit by Qubit
@@ -35,9 +32,7 @@ order: 6
   title: Software Framework of Electronic Structure for Molecules and Solids using C++ in [Valeev Group](https://valeevgroup.github.io/)
   event: Summer Internship, Virginia Tech, USA
   
-" | parse_yaml %}
-
-
+---
 
 
 
