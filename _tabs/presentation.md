@@ -13,7 +13,7 @@ talks:
     event: 64th Sanibel Symposium, St. Augustine, FL
     
   - date: 2024-03-05   
-    type: Poster      
+    type: Poster  
     title: - 
     event: RSC-Poster Conference (Online)
 
@@ -50,7 +50,7 @@ talks:
 
   - date: 2023-01-24   
     type: Invited Talk   
-    title: Developing \textit{ab initio} Methods for Strongly Correlated Systems   
+    title: Developing *ab initio* Methods for Strongly Correlated Systems   
     event: Baden-Württemberg International Program (Online)
 
   - date: 2022-10-**   
