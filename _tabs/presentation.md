@@ -2,8 +2,6 @@
 title: Talks 
 order: 6  
 talks:   
-
-
   - date: 2026-02-24   
     type: Talk   
     title: Neural Network-based Ansatz for Strong Correlation
@@ -17,7 +15,7 @@ talks:
   - date: 2024-03-05   
     type: Poster      
     title: - 
-    event: #RSC-Poster Conference (Online)
+    event: RSC-Poster Conference (Online)
 
   - date: 2024-02-xx   
     type: Poster   
@@ -47,7 +45,7 @@ talks:
   - date: 2023-02-28   
     type: Poster   
     title: Orbital Rotations in 1-Reference Geminal Coupled Cluster Ans\"atze for Strong Correlation  
-    event: #RSC-Poster Conference (Online)
+    event: RSC-Poster Conference (Online)
 
 
   - date: 2023-01-24   
