@@ -86,7 +86,7 @@ talks:
     
   - date: 2022-02-xx   
       type: Poster   
-      title:  
+      title: ""   
       event: 61st Sanibel Symposium, St. Simons Island, GA
   
   - date: 2021-12-12    
