@@ -84,9 +84,9 @@ talks:
     title: Orbital Dynamics of Interacting Galaxies - three-body simulation
     event: Computational Physics Course
     
-  - date: 2022-02-xx   
+  - date: 2022-02-14   
       type: Poster   
-      title: ""   
+      title: Single Excitations in 1-Reference Geminal Coupled Cluster Method  
       event: 61st Sanibel Symposium, St. Simons Island, GA
   
   - date: 2021-12-12    
