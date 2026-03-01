@@ -121,31 +121,22 @@ talks:
 {% assign sorted = page.talks | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
-<div class="talks-container">
+<div class="timeline">
 
 {% for item in sorted %}
   {% assign year = item.date | date: "%Y" %}
 
   {% if year != current_year %}
     {% assign current_year = year %}
-    <h2 class="talk-year">{{ year }}</h2>
+    <h3>{{ year }}</h3>
   {% endif %}
 
-  <div class="talk-entry">
-    <div class="talk-date">
-      {{ item.date | date: "%b %d" }}
-    </div>
-
-    <div class="talk-content">
-      <span class="talk-type">{{ item.type }}</span>
-      <div class="talk-title">{{ item.title }}</div>
-      <div class="talk-event">{{ item.event }}</div>
-
-      {% if item.link %}
-        <a href="{{ item.link }}" class="talk-link">View</a>
-      {% endif %}
-    </div>
-  </div>
+  <p>
+    <strong>[{{ item.type }}]</strong>
+    {{ item.title }}
+    {% if item.event %} – <em>{{ item.event }}</em>{% endif %}
+    {% if item.link %} – <a href="{{ item.link }}">Link</a>{% endif %}
+  </p>
 
 {% endfor %}
 </div>
