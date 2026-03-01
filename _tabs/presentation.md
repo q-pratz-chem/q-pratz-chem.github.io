@@ -14,22 +14,22 @@ talks:
     
   - date: 2024-03-05   
     type: Poster  
-    title: - 
+    title: ""
     event: RSC-Poster Conference (Online)
 
   - date: 2024-02-xx   
     type: Poster   
-    title:  
+    title: "" 
     event: 63rd Sanibel Symposium, St. Augustine, FL
 
   - date: 2023-11-06   
     type: Poster   
-    title: 
+    title: ""
     event: Institute of Pure and Applied Mathematics (IPAM), UCLA
 
   - date: 2023-10-**   
     type: Poster   
-    title: 
+    title: ""
     event: LatinXChem 2023 (Online)
   
   - date: 2023-02-08   
