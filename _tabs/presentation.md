@@ -76,7 +76,7 @@ talks:
 
   - date: 2022-07-12     
     type: Talk   
-    title: Single Excitations in 1-Reference Geminal Coupled Cluster Wavefunctions: Taming Strong Correlation with Flexible Quasiparticles
+    title: Single Excitations in 1-Reference Geminal Coupled Cluster Wavefunctions- Taming Strong Correlation with Flexible Quasiparticles
     event: FAME Conference, Tampa, FL
   
   - date: 2022-04-19     
