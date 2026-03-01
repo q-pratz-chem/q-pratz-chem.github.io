@@ -35,7 +35,7 @@ talks:
 
 
 
-{% assign sorted = talks | sort: "date" | reverse %}
+{% assign sorted = page.talks | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
 <div class="timeline">
