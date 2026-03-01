@@ -5,37 +5,47 @@ talks:
   - date: 2026-02-24   
     type: Talk   
     title: Neural Network-based Ansatz for Strong Correlation
-    event: 65th Sanibel Symposium, St. Augustine, FL
+    event: Hot-Topics Session at 65th Sanibel Symposium, St. Augustine, FL
+
+  - date: 2026-02-10   
+    type: Talk   
+    title: Neural Network-based Variational Approach for Strong Correlation
+    event: Physical Chemistry Seminar, UF
+    
+  - date: 2025-03-05   
+    type: Poster  
+    title: A Novel Approach to Strong Correlation - Geminal Wavefunctions with Doubles and Singles-like Excitations
+    event: RSCPoster LinkedIn Conference (Online)
     
   - date: 2025-02-xx   
     type: Poster   
-    title:  
+    title: Novel Wavefunctions for Strong Correlation - From Geminals to Restricted Boltzmann Machine  
     event: 64th Sanibel Symposium, St. Augustine, FL
     
   - date: 2024-03-05   
     type: Poster  
-    title: ""
-    event: RSC-Poster Conference (Online)
+    title: A Novel Approach to Strong Correlation - Geminal Wavefunctions with Doubles and Singles-like Excitations
+    event: RSCPoster LinkedIn Conference (Online)
 
   - date: 2024-02-xx   
     type: Poster   
-    title: "" 
+    title: Exploring strong correlation with exotic wavefunctions 
     event: 63rd Sanibel Symposium, St. Augustine, FL
 
   - date: 2023-11-06   
     type: Poster   
-    title: ""
+    title: 1-reference orbital geminal Coupled Cluster wavefunctions
     event: Institute of Pure and Applied Mathematics (IPAM), UCLA
 
-  - date: 2023-10-**   
+  - date: 2023-10-16   
     type: Poster   
-    title: ""
+    title: Geminal-based Approach Inspired by Coupled Cluster Formalism
     event: LatinXChem 2023 (Online)
   
   - date: 2023-02-08   
     type: Poster   
     title: Taming Strong Correlation using 1-reference Geminal Coupled Cluster Ans\"atze 
-    event: Virtual Winter School on Computational Chemistry (Online)
+    event: SFP, Virtual Winter School on Computational Chemistry (Online)
 
   - date: 2023-02-13   
     type: Poster   
@@ -45,7 +55,7 @@ talks:
   - date: 2023-02-28   
     type: Poster   
     title: Orbital Rotations in 1-Reference Geminal Coupled Cluster Ans\"atze for Strong Correlation  
-    event: RSC-Poster Conference (Online)
+    event: RSCPoster Twitter Conference (Online)
 
 
   - date: 2023-01-24   
@@ -53,7 +63,7 @@ talks:
     title: Developing *ab initio* Methods for Strongly Correlated Systems   
     event: Baden-Württemberg International Program (Online)
 
-  - date: 2022-10-**   
+  - date: 2022-10-28   
     type: Poster   
     title: Tackling Strong Correlation with Flexible Geminal and Coupled Cluster Methods
     event: LatinXChem 2022 (Online)
