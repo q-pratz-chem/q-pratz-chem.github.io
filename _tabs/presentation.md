@@ -85,9 +85,9 @@ talks:
     event: Computational Physics Course
     
   - date: 2022-02-14   
-      type: Poster   
-      title: Single Excitations in 1-Reference Geminal Coupled Cluster Method  
-      event: 61st Sanibel Symposium, St. Simons Island, GA
+    type: Poster   
+    title: Single Excitations in 1-Reference Geminal Coupled Cluster Method  
+    event: 61st Sanibel Symposium, St. Simons Island, GA
   
   - date: 2021-12-12    
     type: Invited Talk    
