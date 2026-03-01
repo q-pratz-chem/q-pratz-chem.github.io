@@ -15,7 +15,7 @@ talks:
     event: 64th Sanibel Symposium, St. Augustine, FL
     
   - date: 2024-03-05   
-    type: Poster   
+    type: Poster      
     title: - 
     event: #RSC-Poster Conference (Online)
 
