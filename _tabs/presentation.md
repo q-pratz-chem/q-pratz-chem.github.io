@@ -17,7 +17,7 @@ talks:
     title: A Novel Approach to Strong Correlation - Geminal Wavefunctions with Doubles and Singles-like Excitations
     event: RSCPoster LinkedIn Conference (Online)
     
-  - date: 2025-02-xx   
+  - date: 2025-02-24   
     type: Poster   
     title: Novel Wavefunctions for Strong Correlation - From Geminals to Restricted Boltzmann Machine  
     event: 64th Sanibel Symposium, St. Augustine, FL
@@ -27,7 +27,7 @@ talks:
     title: A Novel Approach to Strong Correlation - Geminal Wavefunctions with Doubles and Singles-like Excitations
     event: RSCPoster LinkedIn Conference (Online)
 
-  - date: 2024-02-xx   
+  - date: 2024-02-27   
     type: Poster   
     title: Exploring strong correlation with exotic wavefunctions 
     event: 63rd Sanibel Symposium, St. Augustine, FL
